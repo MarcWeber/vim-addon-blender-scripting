@@ -1,4 +1,8 @@
-I removed the code - the backend will be rewritten being based on:
-http://formgames.org/emacs/blender-python-mode/
+Using Vim (or Emacs) to code python code for blender
+=====================================================
 
-This repo is for the time of development only.
+http://formgames.org/emacs/blender-python-mode/
+Currently I'm happy with the emacs backend.
+
+Its easy to teach Vim talking to blender by sending text to blash though.
+Contact me if you want to implement it. Its like replacing 10 lines
